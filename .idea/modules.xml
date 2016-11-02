@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Example/Example.iml" filepath="$PROJECT_DIR$/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flux.iml" filepath="$PROJECT_DIR$/Flux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FluxLibrary/FluxLibrary.iml" filepath="$PROJECT_DIR$/FluxLibrary/FluxLibrary.iml" />
+    </modules>
+  </component>
+</project>
